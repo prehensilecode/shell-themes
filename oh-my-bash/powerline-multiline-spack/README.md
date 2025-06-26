@@ -47,6 +47,7 @@ The contents of both prompt sides can be "reordered", all the "segments" (every 
 * cwd
 * in_vim
 * python_venv
+* spack_env
 * ruby
 * scm
 * user_info
