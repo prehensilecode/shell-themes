@@ -15,6 +15,7 @@ A colorful multiline theme, where the first line shows information about your sh
 * Battery charging status (depends on the [../../plugins/battery/battery.plugin.sh](battery plugin))
 * SCM Repository status (e.g. Git, SVN)
 * The current Python environment (Virtualenv, venv, and Conda are supported) in use
+* The current [Spack](https://spack.io) environment in use
 * The current Ruby environment (rvm and rbenv are supported) in use
 * Last command exit code (only shown when the exit code is greater than 0)
 
